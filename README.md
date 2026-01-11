@@ -77,6 +77,8 @@ tree-view
 - README.md
 ```
 
+#Deploy link:- https://ez-assignment-n2dx.vercel.app/#
+
 
 # 📋 Assignment 2: Kanban Board
 
@@ -145,7 +147,7 @@ kanban-board
 - tsconfig.json
 - README.md
 ```
-## Deploy link:-https://ez-assignment-xi.vercel.app/##
+# Deploy link:-https://ez-assignment-xi.vercel.app/#
 
 
 
