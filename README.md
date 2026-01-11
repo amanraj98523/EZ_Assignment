@@ -82,7 +82,7 @@ Deploy link:- https://ez-assignment-n2dx.vercel.app/
 
 
 ## Screenshots
-![Tree View Screenshot](./screenshots/treeview.png)
+![Tree View Screenshot](../EZ_Assignment/tree-view/public/treeview.png)
 
 
 # 📋 Assignment 2: Kanban Board
@@ -158,7 +158,8 @@ Deploy link:-https://ez-assignment-xi.vercel.app/
 
 
 ## Screenshots
-<img src="../EZ_Assignment/kanban-board/public/kanban.png">
+![kanban Board Screenshot](../EZ_Assignment/kanban-board/public/kanban.png)
+
 
 
 
