@@ -77,8 +77,14 @@ tree-view
 - README.md
 ```
 
-#Deploy link:- https://ez-assignment-n2dx.vercel.app/
+Deploy link:- https://ez-assignment-n2dx.vercel.app/
 
+
+
+## Screenshots
+<img src="assest/image/screenshot_1.app.png">
+<img src="assest/image/screenshot_2.app.png">
+<img src="assest/image/screenshot_3.app.png">
 
 # 📋 Assignment 2: Kanban Board
 
@@ -150,6 +156,12 @@ kanban-board
 ---
 Deploy link:-https://ez-assignment-xi.vercel.app/
 ---
+
+
+## Screenshots
+<img src="assest/image/screenshot_1.app.png">
+<img src="assest/image/screenshot_2.app.png">
+<img src="assest/image/screenshot_3.app.png">
 
 
 
