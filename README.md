@@ -158,7 +158,7 @@ Deploy link:-https://ez-assignment-xi.vercel.app/
 
 
 ## Screenshots
-![kanban Board Screenshot](../EZ_Assignment/kanban-board/public/kanban.png)
+![kanban Board Screenshot](./kanban-board/public/kanban.png)
 
 
 
