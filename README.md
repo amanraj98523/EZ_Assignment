@@ -144,7 +144,8 @@ kanban-board
 - package.json
 - tsconfig.json
 - README.md
-
+```
+## Deploy link:-https://ez-assignment-xi.vercel.app/##
 
 
 
