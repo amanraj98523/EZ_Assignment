@@ -82,7 +82,7 @@ Deploy link:- https://ez-assignment-n2dx.vercel.app/
 
 
 ## Screenshots
-<img src="../EZ_Assignment/tree-view/public/treeview.png">
+![Tree View Screenshot](./screenshots/treeview.png)
 
 
 # 📋 Assignment 2: Kanban Board
