@@ -82,9 +82,8 @@ Deploy link:- https://ez-assignment-n2dx.vercel.app/
 
 
 ## Screenshots
-<img src="assest/image/screenshot_1.app.png">
-<img src="assest/image/screenshot_2.app.png">
-<img src="assest/image/screenshot_3.app.png">
+<img src="../EZ_Assignment/tree-view/public/treeview.png">
+
 
 # 📋 Assignment 2: Kanban Board
 
@@ -153,15 +152,14 @@ kanban-board
 - tsconfig.json
 - README.md
 ```
----
+
 Deploy link:-https://ez-assignment-xi.vercel.app/
----
+
 
 
 ## Screenshots
-<img src="assest/image/screenshot_1.app.png">
-<img src="assest/image/screenshot_2.app.png">
-<img src="assest/image/screenshot_3.app.png">
+<img src="../EZ_Assignment/kanban-board/public/kanban.png">
+
 
 
 
